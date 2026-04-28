@@ -1,1 +1,1 @@
-# Morse Code Flip-Dot Clock
+# Morse Flip-Dot Clock
