@@ -1,1 +1,1 @@
-# Morse Flip-Dot Clock
+# Dot
