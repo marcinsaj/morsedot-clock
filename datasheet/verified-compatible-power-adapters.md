@@ -19,5 +19,5 @@
 - MOKiN Mini 40W Dual; SKU: MOPA0303BK, ASIN: B0DKJDFRVG 
 - Amazon Basics 65W; Model: PD65U-1TGA
 - Universal Adapter
- - Belker 36W Universal Adapter; Model: PA-30240W-ZMX, ASIN: B078LSVVTB
- - Belker 45W Universal Adapter; Model: PA-30450W-ZMX, ASIN: B07J6RC43S 
+  - Belker 36W Universal Adapter; Model: PA-30240W-ZMX, ASIN: B078LSVVTB
+  - Belker 45W Universal Adapter; Model: PA-30450W-ZMX, ASIN: B07J6RC43S 
