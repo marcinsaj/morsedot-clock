@@ -1,7 +1,7 @@
 # MORSEDOT - Flip Dot Clock
 
->[!TIP]
-> If you have issues powering the clock, see the list of [compatible power adapters](https://github.com/marcinsaj/morsedot-clock/blob/main/datasheet/verified-compatible-power-adapters.md).
+> [!IMPORTANT]
+> [Check out the project on Kickstarter](https://www.kickstarter.com/projects/marcinsaj/morsedot-clock).
 
 ## Specification
 - the clock consists of two modules: controller module & flip-dot display module
@@ -19,6 +19,8 @@
 You can print your own enclosure:
 - [Download STL files on Printables](https://www.printables.com/model/1742806-morsedot-flip-dot-clock)
 
+>[!TIP]
+> If you have issues powering the clock, see the list of [compatible power adapters](https://github.com/marcinsaj/morsedot-clock/blob/main/datasheet/verified-compatible-power-adapters.md).
 
 ## Datasheet
   - CLOCK USER MANUAL - todo
