@@ -5,8 +5,8 @@
 
 ## Specification
 - the clock consists of two modules: controller module & flip-dot display module
-- two buttons for setting the time
-- one button for turning on the clock
+- two control buttons for setting the time and effects
+- one button for turning on/off the clock
 - accurate real-time clock (RTC) on board RX8025T
 - the RTC clock memory is backed up by a supercapacitor, so the clock does not require an additional battery in the event of a power failure or turn off
 - clock dimensions (W × H × D): 100 × 104 × 56 mm (~3.9" × 4.1" × 2.2")
@@ -14,9 +14,8 @@
 - ISP programming connector - only for intermediate users
 
 ## 3D Printed Enclosure
-You can print your own enclosure or modify the design:
-- [Download STL files on Printables](https://www.printables.com/model/1650064-modular-flip-disc-clock-enclosure)
-- [Download the Fusion 360 source file](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/enclosure-modular-flip-disc-clock.f3d)
+You can print your own enclosure:
+- [Download STL files on Printables](https://www.printables.com/model/1742806-morsedot-flip-dot-clock)
 
 
 ## Datasheet
@@ -26,7 +25,11 @@ You can print your own enclosure or modify the design:
   - Morsedot - Flip Dot Clock - Controller Module Diagram - todo
 
 ## How to Read the Display
-
+- [Morse Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/morse-code-flip-dot-clock-morsedot.pdf)
+- [Binary Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/binary-code-flip-dot-clock-morsedot.pdf)
+- [Stibitz Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/stibitz-code-flip-dot-clock-morsedot.pdf)
+- [Fibonacci Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/fibonacci-code-flip-dot-clock-morsedot.pdf)
+- [POSTNET Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/postnet-code-flip-dot-clock-morsedot.pdf)
 
 ## Programming and Firmware
 If you want to modify the [firmware](https://github.com/marcinsaj/morsedot-clock/blob/main/firmware/firmware-morsedot-flip-dot-clock.ino), you can program the clock via the ISP connector.
