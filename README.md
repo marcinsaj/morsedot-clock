@@ -13,6 +13,8 @@
 - power supply from USB-C PD 12V
 - ISP programming connector - only for intermediate users
 
+![Morsedot Clock](https://github.com/marcinsaj/morsedot-clock/blob/main/extras/morsedot-clock-cover-github.png)
+
 ## 3D Printed Enclosure
 You can print your own enclosure:
 - [Download STL files on Printables](https://www.printables.com/model/1742806-morsedot-flip-dot-clock)
