@@ -26,7 +26,7 @@ You can print your own enclosure:
   - Morsedot - Flip Dot Clock - Display Module Diagram - todo
   - Morsedot - Flip Dot Clock - Controller Module Diagram - todo
 
-## How to Read the Display
+## How to Read the Time
 - [Morse Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/morse-code-flip-dot-clock-morsedot.pdf)
 - [Binary Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/binary-code-flip-dot-clock-morsedot.pdf)
 - [Stibitz Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/stibitz-code-flip-dot-clock-morsedot.pdf)
