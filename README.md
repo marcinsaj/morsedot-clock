@@ -1,7 +1,7 @@
 # MORSEDOT - Flip Dot Clock
 
 > [!IMPORTANT]
-> [Check out the project on Kickstarter](https://www.kickstarter.com/projects/marcinsaj/morsedot-clock).
+> [Check out the project on Kickstarter](https://www.kickstarter.com/projects/marcinsaj/morsedot-clock)
 
 ## Specification
 - the clock consists of two modules: controller module & flip-dot display module
