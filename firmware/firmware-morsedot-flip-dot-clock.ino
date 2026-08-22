@@ -18,10 +18,13 @@
  * BUILD
  * -----
  * MiniCore, ATmega328P, External 8 MHz (must match the crystal), BOD 2.7 V,
- * EEPROM retained, LTO enabled. Upload with a programmer; the fuses on the board
- * (D7 / D7 / FD) are already correct and no bootloader is needed.
+ * EEPROM retained, LTO enabled.
  *
- * Build-time switch: DEBUG - UART trace, see the block below (default 0).
+ * Upload with "Upload Using Programmer" - the sketch goes straight over ISP.
+ *
+ * Upload only with the clock switched off (STANDBY). During an ISP session RESET is held,
+ * EN-A/EN-B and SPI go high impedance and a disc coil can be left energized, which trips
+ * the eFuse.
  *
  * DISPLAY LAYOUT
  * --------------
@@ -92,7 +95,8 @@
 
 
 /* ---------------------------------------------------------------------------------
- * DEBUG - UART trace of the power path.  ./build.sh out.hex "-DDEBUG=1"
+ * DEBUG - UART trace of the power path. Set the 0 below to 1 and rebuild; a command line
+ * build can pass -DDEBUG=1 instead, which is what the #ifndef is there for.
  *
  * Output only: PD1 (TX) on connector PH2, 9600 8N1. The firmware never reads the
  * port, so one wire plus ground is enough and no level shifting is needed.
