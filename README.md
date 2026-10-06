@@ -25,8 +25,8 @@ You can print your own enclosure:
 ## Datasheet
   - CLOCK USER MANUAL - todo
   - [Firmware](https://github.com/marcinsaj/morsedot-clock/blob/main/firmware/firmware-morsedot-flip-dot-clock.ino)
-  - Morsedot - Flip Dot Clock - Display Module Diagram - todo
-  - Morsedot - Flip Dot Clock - Controller Module Diagram - todo
+  - [Morsedot - Flip Dot Clock - Display Module Schematic](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/morsedot-clock-display-module-schematic.pdf)
+  - [Morsedot - Flip Dot Clock - Controller Module Schematic](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/morsedot-clock-controller-module-schematic.pdf) 
 
 ## How to Read the Time
 - [Morse Code](https://github.com/marcinsaj/morsedot-clock/raw/main/datasheet/morse-code-flip-dot-clock-morsedot.pdf)
